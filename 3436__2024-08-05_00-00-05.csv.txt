@@ -1,0 +1,12 @@
+Author,Title,10s,9s,8s,7s,6s,5s,4s,3s,2s,1s,timestamp,url,handle_warn
+Mibri,Failures of Infinity,9,3,0,0,0,0,0,0,0,0,2024-08-05 00:00:02.648723+02:00,https://csdb.dk/release/?id=244539,
+theK,Fuldans,0,4,1,1,0,0,0,0,0,0,2024-08-05 00:00:02.940183+02:00,https://csdb.dk/release/?id=244502,
+Mibri,Survival Cell,31,2,1,0,0,0,0,1,0,0,2024-08-05 00:00:03.336795+02:00,https://csdb.dk/release/?id=243947,
+Mibri,Big Up Burglar,14,4,1,0,0,0,0,0,0,0,2024-08-05 00:00:03.639975+02:00,https://csdb.dk/release/?id=244137,
+Linus,Can't even Focus on a Coffee Cup,30,3,1,0,0,0,0,1,0,0,2024-08-05 00:00:04.017954+02:00,https://csdb.dk/release/?id=243942,
+Warp 8,Ghost in the Noise,6,2,1,2,0,0,0,0,0,1,2024-08-05 00:00:04.318354+02:00,https://csdb.dk/release/?id=244273,
+SIDWAVE,Machine World,1,4,3,2,1,0,1,0,0,1,2024-08-05 00:00:04.640164+02:00,https://csdb.dk/release/?id=243937,
+Warp 8,Illinois3,4,2,1,0,1,0,0,0,0,0,2024-08-05 00:00:04.939909+02:00,https://csdb.dk/release/?id=244591,
+acrouzet,Noisy Neighbors,13,1,2,0,0,0,0,0,0,0,2024-08-05 00:00:05.287435+02:00,https://csdb.dk/release/?id=244344,True
+Spider Jerusalem,Simple 1x $81,0,6,2,0,0,0,0,0,0,0,2024-08-05 00:00:05.601067+02:00,https://csdb.dk/release/?id=244511,
+Jammer,Sixteenoises,24,1,0,0,0,0,0,0,0,0,2024-08-05 00:00:05.974110+02:00,https://csdb.dk/release/?id=243960,
